@@ -14,5 +14,13 @@
     "link": "https://tickets.example.com",
     "image": "https://example.com/image.jpg",
     "description": "Late night set"
+  },
+  {
+    "date": "2025-11-21",
+    "venue": "Pulse Bar",
+    "city": "Maroochydore",
+    "link": "https://megatix.com.au/events/sense-friends-fri-21-nov",
+    "image": "https://media.megatix.com.au/e/59157/lonjaUaP7rVxfROywHJznpm8UTWtqXznIPHTEguD.jpg",
+    "description": "Pulse presents 6SENSE"
   }
 ]
