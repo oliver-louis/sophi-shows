@@ -46,5 +46,13 @@
     "link": "",
     "image": "",
     "description": "Support for Teletech afterparty"
+  },
+  {
+    "date": "2026-01-01",
+    "venue": "Brisbane Showgrounds",
+    "city": "Brisbane",
+    "link": "https:/google.com",
+    "image": "",
+    "description": "Wildlands opening"
   }
 ]
