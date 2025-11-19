@@ -1,8 +1,18 @@
-{
-  "date": "2025-11-29",
-  "venue": "La La Land",
-  "city": "Fortitude Valley",
-  "description": "Feed Ivy invites - Felicie (FR)",
-  "link": "https://moshtix.com.au/v2/event/feed-ivy-invites-felicie-fr/187936",
-  "image": "https://static.moshtix.com.au/uploads/2de0b7e4-072e-4dc3-9404-8e75a4a01619x600x600"
-}
+[
+  {
+    "date": "2025-11-29",
+    "venue": "La La Land",
+    "city": "Fortitude Valley",
+    "description": "Feed Ivy invites - Felicie (FR)",
+    "link": "https://moshtix.com.au/v2/event/feed-ivy-invites-felicie-fr/187936",
+    "image": "https://static.moshtix.com.au/uploads/2de0b7e4-072e-4dc3-9404-8e75a4a01619x600x600"
+  },
+  {
+    "date": "2025-06-10",
+    "venue": "Sub Rosa",
+    "city": "Brisbane",
+    "link": "https://tickets.example.com",
+    "image": "https://example.com/image.jpg",
+    "description": "Late night set"
+  }
+]
