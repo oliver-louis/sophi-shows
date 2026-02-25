@@ -70,5 +70,14 @@
     "link": "https://www.eventbrite.com.au/e/dj-bax-nz-brisbane-0404-tickets-1982852163197",
     "image": "https://www.eventbrite.com.au/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177366403%252F390565486731%252F1%252Foriginal.20260212-120353%3Fw%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D50689d8eeae2777adee967ca83e1edc4&w=940&q=75",
     "description": "Closing after the notorious DJ Baxx"
+  },
+  {
+    "date": "2026-03-20",
+    "venue": "GTA Strip Club",
+    "city": "Vice City",
+    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "image": "https://pic.piblokto.xyz/i/bbcea25b-fe0c-4ed2-9d11-ac7997e52717.jpg"
+    "description": "testing if client side fetching gets latest shows"
   }
+    
 ]
